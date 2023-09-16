@@ -1,7 +1,13 @@
-body{
-    background-color: darkgrey;
-    color: lightgrey;
+figure{
+    object-position: 15% 100%;
 }
-h1{ 
-    color: white;
+header{
+    background-color: lightgrey;
+    margin: 30px;
+    line-height: 40px;
+    text-align: center;
+    border: 3px solid black;
+}
+nav{
+    word-spacing: 40px
 }
