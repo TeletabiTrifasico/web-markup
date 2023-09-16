@@ -11,3 +11,17 @@ header{
 nav{
     word-spacing: 40px
 }
+article{
+    width: 300px;
+    border: 3px solid black;
+    padding: 10px;
+}
+aside{
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border: 3px solid black;
+    top: 50%;
+    margin: 10px;
+    transform: translate(0px, -430%);
+}
